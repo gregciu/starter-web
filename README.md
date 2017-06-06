@@ -6,7 +6,8 @@ This repository is for showing how Git and GitHub work
 Adding introduction text and chapter
 
 ## Purpose
-
+Adding Purpose text
 Sample website with plenty of files for demos
 
 ## Deployment
+Adding Deployment text
